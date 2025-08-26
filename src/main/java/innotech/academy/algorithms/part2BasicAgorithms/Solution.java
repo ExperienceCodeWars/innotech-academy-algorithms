@@ -1,4 +1,4 @@
-package innotech.academy.algorithms.partOneBasicAgorithms;
+package innotech.academy.algorithms.part2BasicAgorithms;
 
 import java.util.HashMap;
 import java.util.Map;

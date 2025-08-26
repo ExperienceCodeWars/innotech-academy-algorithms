@@ -1,4 +1,4 @@
-package innotech.academy.algorithms.partOneBasicAgorithms;
+package innotech.academy.algorithms.part2BasicAgorithms;
 
 public record Edge(
         int bandwidth,   // пропускная способность
